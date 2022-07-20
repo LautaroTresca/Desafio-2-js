@@ -1,0 +1,67 @@
+.bodyIndex{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+.contenedorTarjetas{
+    margin: 7rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.tarjeta1{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    width: 15rem;
+}
+
+.tarjeta2{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    width: 15rem;
+}
+
+.tarjeta3{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    width: 15rem;
+}
+
+.tarjeta4{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    width: 15rem;
+}
+
+.foto{
+    margin: 2rem;
+    width:10rem;
+}
+
+.tituloTarjetas{
+    text-align: center;
+}
+
+.textoBoton{
+    margin: 0;
+}
